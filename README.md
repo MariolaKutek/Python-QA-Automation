@@ -74,17 +74,6 @@ By the end of this program, I was able to:
 
 ---
 
-## 💼 How to Showcase on CV
-
-**Entry Example:**
-
-**Python QA Automation Projects**  
-- API testing using Python & pytest  
-- Automated validation of REST APIs  
-- AI-assisted test generation using ChatGPT  
-
----
-
 ## 📌 How to Run the Projects
 
 1. Navigate to the folder you want to run
