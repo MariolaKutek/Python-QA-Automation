@@ -22,6 +22,7 @@ By the end of this program, I was able to:
 | `day3-api/` | API basics with Python: GET/POST requests and JSON handling |
 | `day5-tests/` | API testing with pytest and assertions |
 | `day7-mini-project/` | Mini project: fetch API data, save to JSON, write tests |
+| `day8-debugging/` | API debugging project: identifying, fixing, and documenting automation test failures |
 | `day10-advanced/` | Advanced testing: parametrization, edge cases, multiple scenarios |
 | `day14-final-project/` | Final project: lightweight API testing framework with AI-assisted test generation |
 
