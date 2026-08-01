@@ -1,4 +1,4 @@
-# Day 1–2: Python Basics
+# Day 1–2: Python Basics 
 
 ## About
 In these first two days, I focused on presenting my Python fundamentals:
