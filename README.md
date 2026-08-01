@@ -14,7 +14,7 @@ By the end of this program, I was able to:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 | Folder | Description |
 |--------|-------------|
@@ -27,7 +27,7 @@ By the end of this program, I was able to:
 
 ---
 
-## 🗓️ My 14-Day Plan
+## My 14-Day Plan
 
 ### Days 1–2: Python Basics
 - Learned: variables, lists, dicts, if / for, functions
@@ -74,7 +74,7 @@ By the end of this program, I was able to:
 
 ---
 
-## 📌 How to Run the Projects
+## How to Run the Projects
 
 1. Navigate to the folder you want to run
 2. Run Python scripts:
